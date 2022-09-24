@@ -1,1 +1,1 @@
-{"version_code":2,"content":"Version 1.1 <p>Added feature 1</p><li>Added feature 2</li><li>Added feature 3</li><li>Added feature 4</li><li>Added feature 5</li>"}
+{"version_code":3,"content":"Version 1.2 <p>Added feature 1</p><li>Added feature 2</li><li>Added feature 3</li><li>Added feature 4</li><li>Added feature 5</li>"}
