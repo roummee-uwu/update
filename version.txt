@@ -1,1 +1,4 @@
-{"version_code":3,"content":"Version 1.2 <p>Added feature 1</p><li>Added feature 2</li><li>Added feature 3</li><li>Added feature 4</li><li>Added feature 5</li>"}
+ {
+ "version_code": 3,
+ "content": "Version 1.2 <p>New features:</p><li>Added feature A</li><li>Added feature B</li><li>Added feature C</li><li>Added feature D</li><li>Added feature E</li><li>Added feature F</li><li>Added feature G</li>"
+ }
